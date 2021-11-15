@@ -1,1 +1,2 @@
-123
+config:
+  info: config-dev，version=1
